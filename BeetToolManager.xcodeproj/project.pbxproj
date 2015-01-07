@@ -1,0 +1,461 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		049A68801A5D870A00B1A751 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A687F1A5D870A00B1A751 /* main.m */; };
+		049A68831A5D870A00B1A751 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68821A5D870A00B1A751 /* AppDelegate.m */; };
+		049A68861A5D870A00B1A751 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68851A5D870A00B1A751 /* ViewController.m */; };
+		049A68891A5D870A00B1A751 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049A68871A5D870A00B1A751 /* Main.storyboard */; };
+		049A688B1A5D870A00B1A751 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049A688A1A5D870A00B1A751 /* Images.xcassets */; };
+		049A688E1A5D870A00B1A751 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 049A688C1A5D870A00B1A751 /* LaunchScreen.xib */; };
+		049A689A1A5D870A00B1A751 /* BeetToolManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68991A5D870A00B1A751 /* BeetToolManagerTests.m */; };
+		049A68A51A5D876300B1A751 /* BeetToolManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68A41A5D876300B1A751 /* BeetToolManager.m */; };
+		049A68A81A5D8A8700B1A751 /* BLAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68A71A5D8A8700B1A751 /* BLAnimation.m */; };
+		049A68AB1A5D8AED00B1A751 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 049A68AA1A5D8AED00B1A751 /* CoreGraphics.framework */; };
+		049A68AD1A5D8AF900B1A751 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 049A68AC1A5D8AF900B1A751 /* UIKit.framework */; };
+		049A68AF1A5D8B0800B1A751 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 049A68AE1A5D8B0800B1A751 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		049A68941A5D870A00B1A751 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 049A68721A5D870A00B1A751 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 049A68791A5D870A00B1A751;
+			remoteInfo = BeetToolManager;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		049A687A1A5D870A00B1A751 /* BeetToolManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeetToolManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		049A687E1A5D870A00B1A751 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		049A687F1A5D870A00B1A751 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		049A68811A5D870A00B1A751 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		049A68821A5D870A00B1A751 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		049A68841A5D870A00B1A751 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		049A68851A5D870A00B1A751 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		049A68881A5D870A00B1A751 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		049A688A1A5D870A00B1A751 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		049A688D1A5D870A00B1A751 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		049A68931A5D870A00B1A751 /* BeetToolManagerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeetToolManagerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		049A68981A5D870A00B1A751 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		049A68991A5D870A00B1A751 /* BeetToolManagerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BeetToolManagerTests.m; sourceTree = "<group>"; };
+		049A68A31A5D876300B1A751 /* BeetToolManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeetToolManager.h; sourceTree = "<group>"; };
+		049A68A41A5D876300B1A751 /* BeetToolManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeetToolManager.m; sourceTree = "<group>"; };
+		049A68A61A5D8A8700B1A751 /* BLAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BLAnimation.h; sourceTree = "<group>"; };
+		049A68A71A5D8A8700B1A751 /* BLAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BLAnimation.m; sourceTree = "<group>"; };
+		049A68AA1A5D8AED00B1A751 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		049A68AC1A5D8AF900B1A751 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		049A68AE1A5D8B0800B1A751 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		049A68771A5D870A00B1A751 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				049A68AF1A5D8B0800B1A751 /* Foundation.framework in Frameworks */,
+				049A68AD1A5D8AF900B1A751 /* UIKit.framework in Frameworks */,
+				049A68AB1A5D8AED00B1A751 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		049A68901A5D870A00B1A751 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		049A68711A5D870A00B1A751 = {
+			isa = PBXGroup;
+			children = (
+				049A687C1A5D870A00B1A751 /* BeetToolManager */,
+				049A68961A5D870A00B1A751 /* BeetToolManagerTests */,
+				049A68B01A5D8B0B00B1A751 /* Frameworks */,
+				049A687B1A5D870A00B1A751 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		049A687B1A5D870A00B1A751 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				049A687A1A5D870A00B1A751 /* BeetToolManager.app */,
+				049A68931A5D870A00B1A751 /* BeetToolManagerTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		049A687C1A5D870A00B1A751 /* BeetToolManager */ = {
+			isa = PBXGroup;
+			children = (
+				049A68A61A5D8A8700B1A751 /* BLAnimation.h */,
+				049A68A71A5D8A8700B1A751 /* BLAnimation.m */,
+				049A68A31A5D876300B1A751 /* BeetToolManager.h */,
+				049A68A41A5D876300B1A751 /* BeetToolManager.m */,
+				049A68811A5D870A00B1A751 /* AppDelegate.h */,
+				049A68821A5D870A00B1A751 /* AppDelegate.m */,
+				049A68841A5D870A00B1A751 /* ViewController.h */,
+				049A68851A5D870A00B1A751 /* ViewController.m */,
+				049A68871A5D870A00B1A751 /* Main.storyboard */,
+				049A688A1A5D870A00B1A751 /* Images.xcassets */,
+				049A688C1A5D870A00B1A751 /* LaunchScreen.xib */,
+				049A687D1A5D870A00B1A751 /* Supporting Files */,
+			);
+			path = BeetToolManager;
+			sourceTree = "<group>";
+		};
+		049A687D1A5D870A00B1A751 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				049A687E1A5D870A00B1A751 /* Info.plist */,
+				049A687F1A5D870A00B1A751 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		049A68961A5D870A00B1A751 /* BeetToolManagerTests */ = {
+			isa = PBXGroup;
+			children = (
+				049A68991A5D870A00B1A751 /* BeetToolManagerTests.m */,
+				049A68971A5D870A00B1A751 /* Supporting Files */,
+			);
+			path = BeetToolManagerTests;
+			sourceTree = "<group>";
+		};
+		049A68971A5D870A00B1A751 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				049A68981A5D870A00B1A751 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		049A68B01A5D8B0B00B1A751 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				049A68AE1A5D8B0800B1A751 /* Foundation.framework */,
+				049A68AC1A5D8AF900B1A751 /* UIKit.framework */,
+				049A68AA1A5D8AED00B1A751 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		049A68791A5D870A00B1A751 /* BeetToolManager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 049A689D1A5D870A00B1A751 /* Build configuration list for PBXNativeTarget "BeetToolManager" */;
+			buildPhases = (
+				049A68761A5D870A00B1A751 /* Sources */,
+				049A68771A5D870A00B1A751 /* Frameworks */,
+				049A68781A5D870A00B1A751 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BeetToolManager;
+			productName = BeetToolManager;
+			productReference = 049A687A1A5D870A00B1A751 /* BeetToolManager.app */;
+			productType = "com.apple.product-type.application";
+		};
+		049A68921A5D870A00B1A751 /* BeetToolManagerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 049A68A01A5D870A00B1A751 /* Build configuration list for PBXNativeTarget "BeetToolManagerTests" */;
+			buildPhases = (
+				049A688F1A5D870A00B1A751 /* Sources */,
+				049A68901A5D870A00B1A751 /* Frameworks */,
+				049A68911A5D870A00B1A751 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				049A68951A5D870A00B1A751 /* PBXTargetDependency */,
+			);
+			name = BeetToolManagerTests;
+			productName = BeetToolManagerTests;
+			productReference = 049A68931A5D870A00B1A751 /* BeetToolManagerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		049A68721A5D870A00B1A751 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = Beet;
+				TargetAttributes = {
+					049A68791A5D870A00B1A751 = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
+					049A68921A5D870A00B1A751 = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = 049A68791A5D870A00B1A751;
+					};
+				};
+			};
+			buildConfigurationList = 049A68751A5D870A00B1A751 /* Build configuration list for PBXProject "BeetToolManager" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 049A68711A5D870A00B1A751;
+			productRefGroup = 049A687B1A5D870A00B1A751 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				049A68791A5D870A00B1A751 /* BeetToolManager */,
+				049A68921A5D870A00B1A751 /* BeetToolManagerTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		049A68781A5D870A00B1A751 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				049A68891A5D870A00B1A751 /* Main.storyboard in Resources */,
+				049A688E1A5D870A00B1A751 /* LaunchScreen.xib in Resources */,
+				049A688B1A5D870A00B1A751 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		049A68911A5D870A00B1A751 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		049A68761A5D870A00B1A751 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				049A68861A5D870A00B1A751 /* ViewController.m in Sources */,
+				049A68A51A5D876300B1A751 /* BeetToolManager.m in Sources */,
+				049A68831A5D870A00B1A751 /* AppDelegate.m in Sources */,
+				049A68801A5D870A00B1A751 /* main.m in Sources */,
+				049A68A81A5D8A8700B1A751 /* BLAnimation.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		049A688F1A5D870A00B1A751 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				049A689A1A5D870A00B1A751 /* BeetToolManagerTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		049A68951A5D870A00B1A751 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 049A68791A5D870A00B1A751 /* BeetToolManager */;
+			targetProxy = 049A68941A5D870A00B1A751 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		049A68871A5D870A00B1A751 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				049A68881A5D870A00B1A751 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		049A688C1A5D870A00B1A751 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				049A688D1A5D870A00B1A751 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		049A689B1A5D870A00B1A751 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		049A689C1A5D870A00B1A751 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		049A689E1A5D870A00B1A751 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = BeetToolManager/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		049A689F1A5D870A00B1A751 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = BeetToolManager/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		049A68A11A5D870A00B1A751 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = BeetToolManagerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BeetToolManager.app/BeetToolManager";
+			};
+			name = Debug;
+		};
+		049A68A21A5D870A00B1A751 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = BeetToolManagerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BeetToolManager.app/BeetToolManager";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		049A68751A5D870A00B1A751 /* Build configuration list for PBXProject "BeetToolManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				049A689B1A5D870A00B1A751 /* Debug */,
+				049A689C1A5D870A00B1A751 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		049A689D1A5D870A00B1A751 /* Build configuration list for PBXNativeTarget "BeetToolManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				049A689E1A5D870A00B1A751 /* Debug */,
+				049A689F1A5D870A00B1A751 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		049A68A01A5D870A00B1A751 /* Build configuration list for PBXNativeTarget "BeetToolManagerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				049A68A11A5D870A00B1A751 /* Debug */,
+				049A68A21A5D870A00B1A751 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 049A68721A5D870A00B1A751 /* Project object */;
+}
