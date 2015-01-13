@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>83B317E8-A07D-4778-9A9A-646596A8FBB4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BeetToolManager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>34C26079EC4DA468C415CFEA693F34B5E6C9232E</key>
+		<string>https://github.com/leebeet/BeetToolManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BeetToolManager.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>34C26079EC4DA468C415CFEA693F34B5E6C9232E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/leebeet/BeetToolManager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>34C26079EC4DA468C415CFEA693F34B5E6C9232E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>34C26079EC4DA468C415CFEA693F34B5E6C9232E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BeetToolManager</string>
+		</dict>
+	</array>
+</dict>
+</plist>

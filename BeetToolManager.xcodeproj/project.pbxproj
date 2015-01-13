@@ -19,6 +19,14 @@
 		049A68AB1A5D8AED00B1A751 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 049A68AA1A5D8AED00B1A751 /* CoreGraphics.framework */; };
 		049A68AD1A5D8AF900B1A751 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 049A68AC1A5D8AF900B1A751 /* UIKit.framework */; };
 		049A68AF1A5D8B0800B1A751 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 049A68AE1A5D8B0800B1A751 /* Foundation.framework */; };
+		049A68B61A5EB37500B1A751 /* BeetCacheManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68B31A5EB37500B1A751 /* BeetCacheManager.m */; };
+		049A68B71A5EB37500B1A751 /* BeetNetworkManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68B51A5EB37500B1A751 /* BeetNetworkManager.m */; };
+		049A68BB1A5EB3BA00B1A751 /* JLResourcePath.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68BA1A5EB3BA00B1A751 /* JLResourcePath.m */; };
+		049A68C71A6561BE00B1A751 /* FMDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68BE1A6561BE00B1A751 /* FMDatabase.m */; };
+		049A68C81A6561BE00B1A751 /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68C01A6561BE00B1A751 /* FMResultSet.m */; };
+		049A68C91A6561BE00B1A751 /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68C21A6561BE00B1A751 /* FMDatabaseQueue.m */; };
+		049A68CA1A6561BE00B1A751 /* FMDatabaseAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68C41A6561BE00B1A751 /* FMDatabaseAdditions.m */; };
+		049A68CB1A6561BE00B1A751 /* FMDatabasePool.m in Sources */ = {isa = PBXBuildFile; fileRef = 049A68C61A6561BE00B1A751 /* FMDatabasePool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +60,23 @@
 		049A68AA1A5D8AED00B1A751 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		049A68AC1A5D8AF900B1A751 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		049A68AE1A5D8B0800B1A751 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		049A68B21A5EB37500B1A751 /* BeetCacheManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeetCacheManager.h; sourceTree = "<group>"; };
+		049A68B31A5EB37500B1A751 /* BeetCacheManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeetCacheManager.m; sourceTree = "<group>"; };
+		049A68B41A5EB37500B1A751 /* BeetNetworkManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeetNetworkManager.h; sourceTree = "<group>"; };
+		049A68B51A5EB37500B1A751 /* BeetNetworkManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeetNetworkManager.m; sourceTree = "<group>"; };
+		049A68B91A5EB3BA00B1A751 /* JLResourcePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JLResourcePath.h; path = ../JLResourcePath.h; sourceTree = "<group>"; };
+		049A68BA1A5EB3BA00B1A751 /* JLResourcePath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JLResourcePath.m; path = ../JLResourcePath.m; sourceTree = "<group>"; };
+		049A68BC1A6561BD00B1A751 /* FMDB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDB.h; sourceTree = "<group>"; };
+		049A68BD1A6561BE00B1A751 /* FMDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabase.h; sourceTree = "<group>"; };
+		049A68BE1A6561BE00B1A751 /* FMDatabase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabase.m; sourceTree = "<group>"; };
+		049A68BF1A6561BE00B1A751 /* FMResultSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMResultSet.h; sourceTree = "<group>"; };
+		049A68C01A6561BE00B1A751 /* FMResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSet.m; sourceTree = "<group>"; };
+		049A68C11A6561BE00B1A751 /* FMDatabaseQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseQueue.h; sourceTree = "<group>"; };
+		049A68C21A6561BE00B1A751 /* FMDatabaseQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseQueue.m; sourceTree = "<group>"; };
+		049A68C31A6561BE00B1A751 /* FMDatabaseAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseAdditions.h; sourceTree = "<group>"; };
+		049A68C41A6561BE00B1A751 /* FMDatabaseAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseAdditions.m; sourceTree = "<group>"; };
+		049A68C51A6561BE00B1A751 /* FMDatabasePool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabasePool.h; sourceTree = "<group>"; };
+		049A68C61A6561BE00B1A751 /* FMDatabasePool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabasePool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +103,7 @@
 		049A68711A5D870A00B1A751 = {
 			isa = PBXGroup;
 			children = (
+				049A68B81A5EB38C00B1A751 /* Utilities */,
 				049A687C1A5D870A00B1A751 /* BeetToolManager */,
 				049A68961A5D870A00B1A751 /* BeetToolManagerTests */,
 				049A68B01A5D8B0B00B1A751 /* Frameworks */,
@@ -99,8 +125,14 @@
 			children = (
 				049A68A61A5D8A8700B1A751 /* BLAnimation.h */,
 				049A68A71A5D8A8700B1A751 /* BLAnimation.m */,
+				049A68B91A5EB3BA00B1A751 /* JLResourcePath.h */,
+				049A68BA1A5EB3BA00B1A751 /* JLResourcePath.m */,
 				049A68A31A5D876300B1A751 /* BeetToolManager.h */,
 				049A68A41A5D876300B1A751 /* BeetToolManager.m */,
+				049A68B21A5EB37500B1A751 /* BeetCacheManager.h */,
+				049A68B31A5EB37500B1A751 /* BeetCacheManager.m */,
+				049A68B41A5EB37500B1A751 /* BeetNetworkManager.h */,
+				049A68B51A5EB37500B1A751 /* BeetNetworkManager.m */,
 				049A68811A5D870A00B1A751 /* AppDelegate.h */,
 				049A68821A5D870A00B1A751 /* AppDelegate.m */,
 				049A68841A5D870A00B1A751 /* ViewController.h */,
@@ -147,6 +179,24 @@
 				049A68AA1A5D8AED00B1A751 /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		049A68B81A5EB38C00B1A751 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				049A68BC1A6561BD00B1A751 /* FMDB.h */,
+				049A68BD1A6561BE00B1A751 /* FMDatabase.h */,
+				049A68BE1A6561BE00B1A751 /* FMDatabase.m */,
+				049A68BF1A6561BE00B1A751 /* FMResultSet.h */,
+				049A68C01A6561BE00B1A751 /* FMResultSet.m */,
+				049A68C11A6561BE00B1A751 /* FMDatabaseQueue.h */,
+				049A68C21A6561BE00B1A751 /* FMDatabaseQueue.m */,
+				049A68C31A6561BE00B1A751 /* FMDatabaseAdditions.h */,
+				049A68C41A6561BE00B1A751 /* FMDatabaseAdditions.m */,
+				049A68C51A6561BE00B1A751 /* FMDatabasePool.h */,
+				049A68C61A6561BE00B1A751 /* FMDatabasePool.m */,
+			);
+			name = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,11 +299,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				049A68B61A5EB37500B1A751 /* BeetCacheManager.m in Sources */,
 				049A68861A5D870A00B1A751 /* ViewController.m in Sources */,
+				049A68CB1A6561BE00B1A751 /* FMDatabasePool.m in Sources */,
+				049A68B71A5EB37500B1A751 /* BeetNetworkManager.m in Sources */,
+				049A68C71A6561BE00B1A751 /* FMDatabase.m in Sources */,
+				049A68C81A6561BE00B1A751 /* FMResultSet.m in Sources */,
 				049A68A51A5D876300B1A751 /* BeetToolManager.m in Sources */,
 				049A68831A5D870A00B1A751 /* AppDelegate.m in Sources */,
 				049A68801A5D870A00B1A751 /* main.m in Sources */,
+				049A68C91A6561BE00B1A751 /* FMDatabaseQueue.m in Sources */,
+				049A68BB1A5EB3BA00B1A751 /* JLResourcePath.m in Sources */,
 				049A68A81A5D8A8700B1A751 /* BLAnimation.m in Sources */,
+				049A68CA1A6561BE00B1A751 /* FMDatabaseAdditions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
