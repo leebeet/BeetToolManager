@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T09:53:38.237Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="hSzKkZkPAdQEkLkXRar4" version="14.7.6" type="github"><diagram id="jQy9G8wzMWDkjUT-Aoqu" name="Page-1">5Vpbd6I6FP41rvOkCwioPHppp2etzplZx5nOzGOEqDlFwgqh1v76k0DCLVrxQmtXfVCyCTuwv2/fgh0wWT9/oTBafSU+CjqW4T93wLRjWUPX4d9CsM0EDjAywZJiPxOZhWCGX5AUqmkJ9lFcmcgICRiOqkKPhCHyWEUGKSWb6rQFCaqrRnCJNMHMg4Eu/YV9tpJS0zCKE3cIL1dy6aEjT6yhmiwF8Qr6ZFMSgZsOmFBCWHa0fp6gQNhO2SW77nbP2fzGKApZkwvs2X+jr/cPW/oNOOO70Xrz0n3pgkzLEwwS+cD3N9OH0T+Tm47VD7je8Zzyo6U4QqHfTWJE5eOwrbIRf7JIHCbr4B4vUIBDPhpHiOI1Ynw+mAZS/L2QjTcrzNAsgp64dMPJw2Urtg74yOSHHFAG+SU0HwcBjGI8T1c1uIQiL6ExfkL/ojjjjZCShImVJjkfhFC3lTTfE6IMPZdE0nZfEOH3Sbd8ijxrSxglj02F86ZghStFqxIfHEUUKIm4zDUXWPEDCdcR0DkadBowJXNGBIcsvQVn3HGmNXwIZSuyJCEMygjpVnuVQ6easq9b0txhSdtsy5Ku7gTTBy74hW8x/xlFke4MP1NHMBYI+XPoPX5On8ihO9Ip7H5bUCqOvL9XuMca8zSvAE5rpjQ1U/74+WfEJX9/+8G/J0nM+FLCC2aIPmHO2U/pBHmEvx4nsK7FCcxz0+z7e8FrFZIxW0PK+O8dX00MkygiqWC2jRlaf06HGFxdqWTaV+MQH75YsnRb3qoiCIjsoNdKU5RlB0OcxrGwe8A7IdHJ8S+K4oiEfsea7Lx4gxeiCIPCq1aZm6UqNoQ+4nApajDhRXU4ebMyEu2fACxCYda+yPaSx0cw9mG8Qr5EvAT+XgdgkC7Rq9hKkyO/0lLqyJaxU3hSFEDGPbSy5C7wpLrvgqMFS9wqS6x6PIxJQj0kLyo3iTU9+YX7FGVW0BSlVMof8Qx26V3NhCLIBOwMe4+IXQXS1vshfTGo7eFpUHNjw21pmoyWe28Y9HevUzAn03hZHvU1Ho0SGW6iYJtFqlmyXKJY3Gq2rWGkmdRjO+PQGVm/xDkR97EHg1GAl5yq0zlhvIjOOFtjcYW2BaWHYvSM2W9+3DV6xrAvBX9EBu9ZDpDj6bNM6elgWxqU8tbrOT+jUgNHuFxsVDWDeRFnyXcbFfdc9zRnAaqE2KfoaGfRl1JzyGIRo3ai60DzCtnScc5RbmgSxhp7P0XN6g6urWa1hhpWrwWWFmvWnDUft2bVd/goYgkN3yBUh/wBfqeh2bVzgYzVlhoXsTodbcujxtH6YBB2GsbgM4MuqG2IgLqPNC5GrQOKWi5GVfLY1+r04VqEtXAeRykup/c9hzRdTRN0Bb0NGJxIp8HwgKILFbzWYPc6rRa8QN+thb7POSZowlaoKHKLVxaGB2OU9d28Kk5L2CoRoaAnrwKDJ5RriSjhSfotilwVOc2e6TjVyNm3BxcNnQdpLaEVBbdpgQq89kVIXienDfo9m1cX+cc5jfSu2XNst/g4R63yIapaYL1DpXT8rqhZA9htVhW19pYA6DvbHgz/SjFTkeM8H58HRGTKkidXvPisWkaB3nYxo/ml2yz7XIzc+nbrKI/cPCTDPbsV6Qtsr3hFF6tXdBxPuFikKsKQsCK+v9WmhVnZr3CdszYgGtNABXCzgmbXsVqJ3o49aBRINUXdWuvUNWv7DC2G0R1/KAG3Gi9Orilz/FU6zzkwHKrzb7JnZTcMMarvfY+ad1jroZx6Gmic//sHFLXdQx23jXGZUHM6ORpjfi6+tR7BaZhW9MjjHlDUNr761gqO4wSpvOJfLoDsRfUKmlLbcXvAPBHCeonhDC8EIR8W/y/Nphd/0gU3/wM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-09T09:56:44.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="WgwJ9HMlJlFMhJoLK9t4" version="14.7.6" type="github">
+  <diagram id="jQy9G8wzMWDkjUT-Aoqu" name="Page-1">
+    <mxGraphModel dx="1298" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-3" value="LEDVANCE&lt;br&gt;end-user&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="150" width="90" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="4SjAMLVyrO35BHAmwz-z-3" vertex="1">
+          <mxGeometry x="40" y="60" width="10" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-9" value="LDV WiFi App&lt;br&gt;User feedback" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="150" width="90" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="4SjAMLVyrO35BHAmwz-z-9" vertex="1">
+          <mxGeometry x="40" y="60" width="10" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-11" value="TUYA IOT Customer Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="150" width="90" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="4SjAMLVyrO35BHAmwz-z-11" vertex="1">
+          <mxGeometry x="40" y="60" width="10" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-13" value="LEDVANCE Smart Home Support System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="150" width="90" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="4SjAMLVyrO35BHAmwz-z-13" vertex="1">
+          <mxGeometry x="40" y="60" width="10" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-24" value="Feedback: &lt;br&gt;Device A is slow to respond, &lt;br&gt;wifi at home is working fine" style="endArrow=open;endSize=12;dashed=1;html=1;" parent="1" target="4SjAMLVyrO35BHAmwz-z-10" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-25" value="Create ticket" style="endArrow=open;endSize=12;dashed=1;html=1;" parent="1" target="4SjAMLVyrO35BHAmwz-z-12" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="250" as="sourcePoint" />
+            <mxPoint x="480" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-26" value="Auto reply: Suggest user contact &lt;br&gt;LEDVANCE Smart Home Support System" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.086;exitY=0.253;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4SjAMLVyrO35BHAmwz-z-12" target="4SjAMLVyrO35BHAmwz-z-10" edge="1">
+          <mxGeometry y="11" relative="1" as="geometry">
+            <mxPoint x="530" y="299" as="sourcePoint" />
+            <mxPoint x="314" y="299" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-27" value="TUYA operations" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="970" y="150" width="90" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="4SjAMLVyrO35BHAmwz-z-27" vertex="1">
+          <mxGeometry x="40" y="60" width="10" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-29" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.948;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="4SjAMLVyrO35BHAmwz-z-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="300" as="sourcePoint" />
+            <mxPoint x="220" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-30" value="Feedback:&amp;nbsp;&lt;br&gt;Device A is slow to respond,&amp;nbsp;&lt;br&gt;wifi at home is working fine" style="endArrow=open;endSize=12;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="370" as="sourcePoint" />
+            <mxPoint x="780" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-31" value="address the user feedback case, report&amp;nbsp;and solve the problem" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.155;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0123" y="4" relative="1" as="geometry">
+            <mxPoint x="780" y="436.45000000000005" as="sourcePoint" />
+            <mxPoint x="91.54999999999995" y="436.45000000000005" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="710" y="490" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-33" value="can&#39;t address" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;" parent="1" target="4SjAMLVyrO35BHAmwz-z-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-34" value="A case that &lt;br&gt;LDV customer service staff cannot solve" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.95;" parent="1" source="4SjAMLVyrO35BHAmwz-z-32" edge="1">
+          <mxGeometry x="-1" y="-52" relative="1" as="geometry">
+            <mxPoint x="780" y="547" as="targetPoint" />
+            <mxPoint x="-40" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-35" value="?" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1.155;exitY=0.881;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4SjAMLVyrO35BHAmwz-z-14" target="4SjAMLVyrO35BHAmwz-z-27" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="800" y="560" as="sourcePoint" />
+            <mxPoint x="960" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-38" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" source="4SjAMLVyrO35BHAmwz-z-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="590" as="sourcePoint" />
+            <mxPoint x="790" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SjAMLVyrO35BHAmwz-z-39" value="issue solved" style="endArrow=open;endSize=12;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="459.31" as="sourcePoint" />
+            <mxPoint x="780" y="458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
